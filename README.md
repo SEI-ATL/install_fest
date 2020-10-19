@@ -1,4 +1,4 @@
-# Install fest! Woo!
+# Install fest! Woohoo!
 
 ### Learning goals
 - Install the tools we need for Unit 1
@@ -57,3 +57,11 @@ Before you get started, make sure you can open the program called PowerShell. Th
 #### node
 - Download link: https://nodejs.org/en/download/
 - Finish line: You can run `node -v` and `npm -v`
+
+### Linux
+If you are using Linux, you probably already know how to install programs and verify that they are working. It is always ok to google how to get these programs for your version of ubuntu! Your checklist of installs is:
+- Slack
+- git
+- Visual Studio Code
+- node
+- zsh and ohMyZsh (optional)
